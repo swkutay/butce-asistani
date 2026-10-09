@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.env
+application-local.properties
+.idea/
+.vscode/
+*.iml
+Thumbs.db
